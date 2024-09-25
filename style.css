@@ -1,0 +1,30 @@
+#container{
+    background-color: orange;
+    width: 1250px;
+    height: 575px;
+}
+.titulo{
+    color: white;
+    padding-left: 530px;
+}
+.paragrafo1{
+    color: orangered;
+}
+.paragrafo2{
+    color: orangered;
+}
+.arco{
+    color: orangered;
+}
+.paragrafo3{
+    color: orangered;
+}
+.paragrafo4{
+    color: blue;
+    
+    
+}
+.paragrafo3{
+    color: orangered;
+    
+}
